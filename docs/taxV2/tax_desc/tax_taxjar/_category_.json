@@ -1,0 +1,8 @@
+{
+  "label": "税费上报",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "独立站税费上报逻辑"
+  }
+}

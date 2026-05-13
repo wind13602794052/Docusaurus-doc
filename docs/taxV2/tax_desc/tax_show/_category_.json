@@ -1,0 +1,8 @@
+{
+  "label": "税费显示",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "独立站税费显示逻辑"
+  }
+}
