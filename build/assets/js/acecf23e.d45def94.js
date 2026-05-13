@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusers_wind_code_my_doc=self.webpackChunkusers_wind_code_my_doc||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusers_wind_code_my_doc=self.webpackChunkusers_wind_code_my_doc||[]).push([[2498],{92498:(e,c,s)=>{s.d(c,{createArchitectureServices:()=>r.S});var r=s(73009);s(58198)}}]);

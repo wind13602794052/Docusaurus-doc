@@ -1,0 +1,5 @@
+# 仅跟踪 build/：忽略仓库根目录下其余条目（build 内文件照常跟踪）
+/*
+!.gitignore
+!/build/
+!/build/**
